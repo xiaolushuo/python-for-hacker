@@ -1,22 +1,5 @@
-Python tools for penetration testers
+Note:Python For Hackers
 ====================================
-
-If you are involved in vulnerability research, reverse engineering or
-pentesting, I suggest to try out the
-[Python](http://www.python.org) programming language. It has a rich set
-of useful libraries and programs. This page lists some of them.
-
-Most of the listed tools are written in Python, others are just Python
-bindings for existing C libraries, i.e. they make those libraries easily
-usable from Python programs.
-
-Some of the more aggressive tools (pentest frameworks, bluetooth
-smashers, web application vulnerability scanners, war-dialers, etc.) are
-left out, because the legal situation of these tools is still a bit
-unclear in Germany -- even after the [decision of the highest
-court](http://www.bundesverfassungsgericht.de/entscheidungen/rk20090518_2bvr223307.html).
-This list is clearly meant to help whitehats, and for now I prefer to
-err on the safe side.
 
 ### Network
 
